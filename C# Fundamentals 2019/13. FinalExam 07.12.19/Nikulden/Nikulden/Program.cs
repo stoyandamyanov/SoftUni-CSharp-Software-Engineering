@@ -88,11 +88,6 @@ namespace Nikulden
                 }
                 
 
-
-
-
-
-
                 command = Console.ReadLine()
                     .Split();
             }
