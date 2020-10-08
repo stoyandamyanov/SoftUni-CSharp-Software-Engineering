@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyEvensbyOdds", "MultiplyEvensbyOdds\MultiplyEvensbyOdds.csproj", "{D1426A9B-47FB-42E6-BD26-61327E72E30F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1426A9B-47FB-42E6-BD26-61327E72E30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1426A9B-47FB-42E6-BD26-61327E72E30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1426A9B-47FB-42E6-BD26-61327E72E30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1426A9B-47FB-42E6-BD26-61327E72E30F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EB792CA-6ED3-47DC-AB6C-6C5CCCF1A156}
+	EndGlobalSection
+EndGlobal
