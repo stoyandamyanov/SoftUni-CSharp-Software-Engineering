@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotPotato", "HotPotato.csproj", "{1F1DB987-D455-4098-8359-824DA553EBCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F1DB987-D455-4098-8359-824DA553EBCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1DB987-D455-4098-8359-824DA553EBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1DB987-D455-4098-8359-824DA553EBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1DB987-D455-4098-8359-824DA553EBCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C5777F2-7B6E-4761-BF62-03A6C2E308D9}
+	EndGlobalSection
+EndGlobal

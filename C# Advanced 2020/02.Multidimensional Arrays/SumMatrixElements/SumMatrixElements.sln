@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumMatrixElements", "SumMatrixElements.csproj", "{02D34D05-D021-412F-8308-EA7CC432FDEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02D34D05-D021-412F-8308-EA7CC432FDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D34D05-D021-412F-8308-EA7CC432FDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D34D05-D021-412F-8308-EA7CC432FDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D34D05-D021-412F-8308-EA7CC432FDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5924407-B1F8-43BF-9064-8CD040176441}
+	EndGlobalSection
+EndGlobal
